@@ -39,15 +39,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/codersyn/sdvdocs' }
     ],
 
-    search: {
-      provider: 'algolia',
-      options: {
-        appId: '8J64VVRP8K',
-        apiKey: 'a18e2f4cc5665f6602c5631fd868adfd',
-        indexName: 'vitepress'
-      }
-    },
-
     footer: {
       copyright: 'Copyright © 2023 Syn'
     }
