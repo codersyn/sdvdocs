@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 开始💡
-      link: /guide/what-is-vitepress
+      link: /guide/online
     - theme: alt
       text: Github🌱
-      link: https://github.com/codersyn/sdvdocs
+      link: https://github.com/codersyn
 
 features:
   - icon: ⚡️
