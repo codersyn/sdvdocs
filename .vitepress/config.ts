@@ -31,7 +31,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/codersyn/docs/edit/main/:path',
+      pattern: 'https://github.com/codersyn/sdvdocs/edit/main/:path',
       text: '在Github上编辑此页面'
     },
 
