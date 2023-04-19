@@ -67,6 +67,7 @@ function sidebarGuide() {
       text: 'Android',
       collapsed: true,
       items: [
+        { text: '安卓安装', link: '/guide/sdvapk' },
         { text: '替换文件', link: '/guide/replace-files' },
         { text: '安装模组', link: '/guide/install-mod' },
         { text: '添加模组', link: '/guide/add-mod' }
