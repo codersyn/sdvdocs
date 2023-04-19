@@ -48,7 +48,8 @@ export default defineConfig({
 function nav() {
   return [
     { text: '使用指南', link: '/guide/online', activeMatch: '/guide/' },
-    { text: 'Blog', link: 'https://sysy.su' }
+    { text: 'Blog', link: 'https://sysy.su' },
+    { text: '加QQ群', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=EuSGchmu5KCkjAG8kklYglHLQMotDY_w&jump_from=webapi&authKey=76ai5YdBnEfr+UqAC2EZHohW7esM0PL/uZqh/XqPTwnjdo01jSya6A6titFSwLdn' }
   ]
 }
 
