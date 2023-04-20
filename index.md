@@ -1,6 +1,9 @@
 ---
 layout: home
 
+title: Home
+titleTemplate: 星露谷物语使用文档
+
 hero:
   name: 星露谷物语
   text: 星露谷物语使用文档

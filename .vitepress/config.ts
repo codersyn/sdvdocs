@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: '星露谷物语使用文档',
+  title: '星露谷物语文档',
   description: '一个不太正经的文档',
 
   lastUpdated: true,
@@ -40,6 +40,7 @@ export default defineConfig({
     ],
 
     footer: {
+      message: 'Released under the MIT License.',
       copyright: 'Copyright © 2023 Syn'
     }
   }
@@ -49,7 +50,7 @@ function nav() {
   return [
     { text: '使用指南', link: '/guide/online', activeMatch: '/guide/' },
     { text: 'Blog', link: 'https://sysy.su' },
-    { text: '加QQ群', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=EuSGchmu5KCkjAG8kklYglHLQMotDY_w&jump_from=webapi&authKey=76ai5YdBnEfr+UqAC2EZHohW7esM0PL/uZqh/XqPTwnjdo01jSya6A6titFSwLdn' }
+    { text: '加入QQ群', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=EuSGchmu5KCkjAG8kklYglHLQMotDY_w&jump_from=webapi&authKey=76ai5YdBnEfr+UqAC2EZHohW7esM0PL/uZqh/XqPTwnjdo01jSya6A6titFSwLdn' }
   ]
 }
 
