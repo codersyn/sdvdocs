@@ -82,5 +82,12 @@ function sidebarGuide() {
         { text: '暂时没有发现', link: '/guide/none' },
       ]
     },
+    {
+      text: '买杯咖啡',
+      collapsed: true,
+      items: [
+        { text: 'Buy Me a Coffee', link: '/guide/buy-me-a-coffee' },
+      ]
+    },
   ]
 }
