@@ -2,9 +2,9 @@
 
 听说最近星露谷小镇新开了一家咖啡店，如果本文档对你有帮助，欢迎请我喝一杯咖啡~
 
-<div  align="center">
+<div align = "center">
 
-![wxpay](/wxpay.jpg "wxpay")
+<img src="/wxpay.jpg" width="36%" height="36%" alt="wxpay" />
 
 </div>
 
