@@ -26,17 +26,17 @@
         justify-content: left;
         align-items: center;
     }
-    .image{
+    .con .image{
         margin: 5px;
         position: relative;
     }
-    .image img{
+    .con .image img{
         width: 50px;
         height: 50px;
         border-radius: 50%;
         cursor: pointer;
     }
-    .description{
+    .con .description{
         position: absolute;
         bottom: -40px;
         text-align: center;
@@ -50,11 +50,11 @@
         transition: opacity 0.3s ease-in-out;
         z-index: 9999;
     }
-    .description p {
+    .con .description p {
         line-height: 1px;
         color: #fff;
     }
-    .image:hover .description{
+    .con .image:hover .description{
          opacity: 1;
     }
 </style>
