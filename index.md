@@ -17,7 +17,7 @@ hero:
       link: /guide/online
     - theme: alt
       text: Github🌱
-      link: https://github.com/codersyn
+      link: https://github.com/codersyn/sdvdocs
 
 features:
   - icon: ⚡️

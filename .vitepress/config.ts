@@ -10,11 +10,11 @@ export default defineConfig({
 
   head: [
     ['meta', { name: 'theme-color', content: '#3c8772' }],
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: 'logo.png' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }],
     [
       'script',
       {
-        src: 'https://cdn.usefathom.com/script.js',
+        src: '/script.js',
         'data-site': 'AZBRSFGG',
         'data-spa': 'auto',
         defer: ''
@@ -37,7 +37,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/codersyn/sdvdocs' }
+      { icon: 'github', link: 'https://github.com/codersyn' }
     ],
 
     footer: {
