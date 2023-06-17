@@ -8,7 +8,7 @@
 
 <div class="tip custom-block" style="padding-top: 8px">
 
-+ :cherry_blossom:二合一：https://v.sysy.su/sdvbapk/
++ :cherry_blossom:二合一：https://v.sysy.su/sdvapk/
 
 </div>
 
