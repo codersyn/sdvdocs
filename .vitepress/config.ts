@@ -32,7 +32,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/codersyn/sdvdocs/edit/main/:path',
+      pattern: 'https://github.com/codersyn/sdvdocs/edit/gh-pages/:path',
       text: '在Github上编辑此页面'
     },
 
