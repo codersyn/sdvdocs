@@ -8,8 +8,8 @@
 
 <div class="tip custom-block" style="padding-top: 8px">
 
-+ :white_flower:未美化版：https://v.sysy.su/sdv/
-+ :cherry_blossom:美化版：https://v.sysy.su/sdvb/
++ :white_flower:未美化版：[点我下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/Stardew%20Valley_15.6.39_%E7%AE%80%E5%8D%95%E9%92%93%E9%B1%BC_%E9%95%B0%E5%88%80%E6%94%B6%E5%89%B2_%E7%A7%BB%E9%80%9F%E4%BF%AE%E6%94%B9_%E5%B9%B8%E8%BF%90%E4%BF%AE%E6%94%B9_%E6%94%BB%E9%98%B2%E4%BF%AE%E6%94%B9.ipa)
++ :cherry_blossom:美化版：[点我下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/Stardew%20Valley_15.6.39_%E7%AE%80%E5%8D%95%E9%92%93%E9%B1%BC_%E9%95%B0%E5%88%80%E6%94%B6%E5%89%B2_%E7%A7%BB%E9%80%9F%E4%BF%AE%E6%94%B9_%E5%B9%B8%E8%BF%90%E4%BF%AE%E6%94%B9_%E6%94%BB%E9%98%B2%E4%BF%AE%E6%94%B9_%E7%BE%8E%E5%8C%96.ipa)
 
 </div>
 
