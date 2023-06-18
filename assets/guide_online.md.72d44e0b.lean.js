@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,O as s}from"./chunks/framework.97fbe135.js";const f=JSON.parse('{"title":"什么是在线安装？","description":"","frontmatter":{},"headers":[],"relativePath":"guide/online.md","lastUpdated":1682417179000}'),r={name:"guide/online.md"},o=s("",7),i=[o];function l(n,d,p,_,c,h){return t(),e("div",null,i)}const m=a(r,[["render",l]]);export{f as __pageData,m as default};
