@@ -14,7 +14,7 @@
     <div class="image">
         <img src="http://q1.qlogo.cn/g?b=qq&nk=1714050472&s=640" alt="Avatar 1">
         <div class="description">
-            <p>感谢“奏”赞助的50元</p>
+            <p>感谢“奏”赞助的100元</p>
         </div>
     </div>
 </div>
