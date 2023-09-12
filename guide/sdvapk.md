@@ -4,12 +4,10 @@
 
 ## 星露谷apk下载网址
 
-因为我没有安卓手机，所以安装包均来自群友的无私贡献，请为他们点赞:tada:
+因为文件是存放在阿里云盘，如果点击下载后报错英文代码，那是因为短时间内请求太多了，多刷新几次或者等待一段时间后再下载即可。
 
 <div class="tip custom-block" style="padding-top: 8px">
 
-+ :cherry_blossom:二合一：https://v.sysy.su/sdvapk/
+- :cherry_blossom:安卓美化版：https://v.sysy.su/sdvapk/
 
 </div>
-
-因为文件是存放在阿里云盘，如果点击下载后报错英文代码，那是因为短时间内请求太多了，多刷新几次或者等待一段时间后再下载即可。
