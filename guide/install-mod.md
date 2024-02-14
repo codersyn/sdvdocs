@@ -1,8 +1,8 @@
 # 安卓如何安装模组版星露谷物语？
 
-1. 下载 [SMAPI安装器](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/SMAPI%E5%AE%89%E8%A3%85%E5%99%A8_v3.18.3.3.apk) 并安装到手机
+1. 下载 [SMAPI安装器](https://github.com/ZaneYork/SMAPI-Android-Installer/releases) 并安装到手机
   
-2. 确保手机里已经安装了原版星露谷物语，如果没有 [可点这里下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD%E5%8E%9F%E7%89%88_1.5.6.39_%E5%AE%89%E5%8D%93.apk) 安装
+2. 确保手机里已经安装了原版星露谷物语，如果没有 [可点这里下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/Android/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD%E5%8E%9F%E7%89%88_1.5.6.39.apk?sign=hw93aPwDpNvMvBtpocd2d13Svr7OjiMUgqwo7aKWhL4=:0) 安装
   
 3. 打开刚才安装的“SMAPI安装器”，如果提示需要权限就统统允许
   
