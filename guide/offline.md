@@ -8,8 +8,8 @@
 
 <div class="tip custom-block" style="padding-top: 8px">
 
-+ :white_flower:未美化版：[点我下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%ADSyn%E6%94%B9_1.5.6.39_%E6%97%A0%E7%BE%8E%E5%8C%96.ipa)
-+ :cherry_blossom:美化版：[点我下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%ADSyn%E6%94%B9_1.5.6.39_%E7%BE%8E%E5%8C%96%E7%89%88.ipa)
++ :white_flower:未美化版：[点我下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/iOS/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD%E4%BF%AE%E6%94%B9%E7%89%88_1.5.6.39%40com.chucklefish.stardewvalley.ipa?sign=UV5MajJ7d7ALbE9EOmD5aupkNQjpQxlH8qRbtnzsvdU=:0)
++ :cherry_blossom:美化版：[点我下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/iOS/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD%E7%BE%8E%E5%8C%96%E7%89%88_1.5.6.39%40com.chucklefish.stardewvalley.ipa?sign=4fPHgT7it_TFvGaW2O5wyBTi_LKjV04-2ENjrBBaksQ=:0)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 1. 准备一台电脑，一根数据线，你需要签名的ipa文件，你的iPhone或iPad。
 
-2. 下载[Sideloadly](https://drive.sysy.su/d/%E8%BD%AF%E4%BB%B6/Windows/Sideloadly-%E8%8B%B9%E6%9E%9C%E8%87%AA%E7%AD%BE%E5%B7%A5%E5%85%B7.exe?sign=zjrnXQK-ccgIbPd1-UrUYVLkM9aGZRf5KNCLLqYG6jc=:0)并安装到你的电脑上。
+2. 下载[Sideloadly](https://sideloadly.io/)并安装到你的电脑上。
 
 3. 用数据线连接你的手机和电脑。
 
