@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,O as l}from"./chunks/framework.97fbe135.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/offline.md","lastUpdated":1707906204000}'),a={name:"guide/offline.md"},i=l("",11),o=[i];function s(p,n,d,h,c,g){return r(),e("div",null,o)}const _=t(a,[["render",s]]);export{E as __pageData,_ as default};
