@@ -1,38 +1,10 @@
-# 什么是自签安装？
+1. 打开网址：[https://v.sysy.su](https://v.sysy.su/)。
 
-自签安装通常指通过市面上的签名软件利用Apple ID来签名ipa包的一种方式，自签的优点是使用简单且免费，不用像企业证书那样需要花费金钱且需要一定技术手段，也不用担心啥时候就掉签了，因为每7天必须重签一次，但是没有企业证书的不确定性。当然优点也算缺点，如果是一个长期使用的应用，频繁签名也是很影响体验的。
+2. 点击iOS星露谷物语修改版/美化版，点击**立即下载**，即可下载未签名的ipa包。
 
-## 星露谷未签名ipa下载地址
+## 使用Sideloadly自签[​](https://docs.sysy.su/guide/offline#%E4%BD%BF%E7%94%A8sideloadly%E8%87%AA%E7%AD%BE)
 
-因为文件是存放在阿里云盘，如果点击下载后报错英文代码，那是因为短时间内请求太多了，多刷新几次或者等待一段时间后再下载即可。
-
-<div class="tip custom-block" style="padding-top: 8px">
-
-+ :white_flower:未美化版：[点我下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/iOS/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD%E4%BF%AE%E6%94%B9%E7%89%88_1.5.6.39%40com.chucklefish.stardewvalley.ipa?sign=UV5MajJ7d7ALbE9EOmD5aupkNQjpQxlH8qRbtnzsvdU=:0)
-+ :cherry_blossom:美化版：[点我下载](https://drive.sysy.su/d/%E6%B8%B8%E6%88%8F/iOS/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD%E7%BE%8E%E5%8C%96%E7%89%88_1.5.6.39%40com.chucklefish.stardewvalley.ipa?sign=4fPHgT7it_TFvGaW2O5wyBTi_LKjV04-2ENjrBBaksQ=:0)
-
-</div>
-
-## 各大签名工具
-
-这里只做统计，不详细展开描述，具体可查看官网信息。
-
-> *:mega:：某些官网可能需要梯子。*
-
-| 名称         | 官网                      | 简介                     |
-|:----------:|:-----------------------:|:----------------------:|
-| Sideloadly | https://sideloadly.io/  | 一个电脑端简单且强大的自签软件，英文界面   |
-| AltStore   | https://altstore.io/    | 可以在连接WiFi的情况下自动续签，英文界面 |
-| SideStore  | https://sidestore.io/   | 睾贵的Mac专属               |
-| 爱思助手       | https://www.i4.cn/      | 国产之光，用苹果的大概都知道         |
-| 牛蛙助手       | https://ios222.com/     | 后起之秀，一键续签很方便           |
-| Scarlet    | https://usescarlet.com/ | 这玩意严格来说其实不算自签          |
-
-## 使用Sideloadly自签
-
-为什么使用Sideloadly而不使用爱思助手？当然是因为Sideloadly简单且强大，爱思助手只要看得懂中文跟着引导都会用，而且爱思助手签名的ipa有可能会出现无法安装的情况，弃之。
-
-1. 准备一台电脑，一根数据线，你需要签名的ipa文件，你的iPhone或iPad。
+1. 准备一台电脑，一根数据线，你需要签名的ipa文件，你的iPhone/iPad。
 
 2. 下载[Sideloadly](https://sideloadly.io/)并安装到你的电脑上。
 
@@ -50,15 +22,13 @@
 
 9. 以后每7天掉签后都需要用电脑重复一遍上述操作，续签后直接覆盖安装即可，不要卸载，不然会丢失存档。
 
-## 使用牛蛙助手自签
+## 使用牛蛙助手自签 [​](https://docs.sysy.su/guide/offline#%E4%BD%BF%E7%94%A8%E7%89%9B%E8%9B%99%E5%8A%A9%E6%89%8B%E8%87%AA%E7%AD%BE)[​](https://docs.sysy.su/guide/offline#%E4%BD%BF%E7%94%A8%E7%89%9B%E8%9B%99%E5%8A%A9%E6%89%8B%E8%87%AA%E7%AD%BE-%E2%80%8B)
 
-考虑到部分用户不能时常接触电脑，这时候牛蛙助手就派上用场了，它只需要首次在电脑上操作，后续自签都可以在手机上完成，这便是牛蛙助手的优点，~~而缺点就是有广告！有广告！有广告！~~最新版已经移除了广告，据说是得到了金主爸爸赞助，不过又有人说是会收集隐私，但是见仁见智吧。
-
-1. 准备一台电脑，一根数据线，你的iPhone或iPad。
+1. 准备一台电脑，一根数据线，你的iPhone/iPad。
 
 2. 下载[牛蛙助手](https://ios222.com/)并安装到你的电脑上。
 
-3. 用数据线连接你的手机和电脑，打开牛蛙助手，点击安装即可，如果没有正常连接，请先用爱思助手装一遍苹果驱动。
+3. 用数据线连接你的手机和电脑，打开牛蛙助手，点击安装即可，如果没有正常连接，请先用[爱思助手](https://www.i4.cn/)装一遍苹果驱动。
 
 4. 成功安装后切换到手机，找到牛蛙助手的图标，打开它，会提示“xxx想添加VPN设置”，点击允许，输入你的锁屏密码。
 
@@ -86,9 +56,7 @@
 
 16. 以后每过七天掉签了就进入牛蛙助手，依次点击“IPA签名-应用-已安装”然后点右上角的刷新图标即可一键续签，需要注意的是这步需要你连接了牛蛙助手的VPN才可以续签。
 
-## 使用Scarlet签名
-
-如果实在是没办法接触电脑，只能在手机上操作，那Scarlet就是你最后的选择，但是严格来说Scarlet并不属于自签，本质上还是使用的企业签名，所以掉签时间充满不确定性。唯二的优点就是不用使用电脑，且操作简单。
+## 使用Scarlet签名 [​](https://docs.sysy.su/guide/offline#%E4%BD%BF%E7%94%A8scarlet%E7%AD%BE%E5%90%8D)[​](https://docs.sysy.su/guide/offline#%E4%BD%BF%E7%94%A8scarlet%E7%AD%BE%E5%90%8D-%E2%80%8B)
 
 1. 打开[Scarlet](https://usescarlet.com/)的官网，如果打不开可能需要挂梯子。
 
@@ -105,3 +73,18 @@
 7. 信任后打开Scarlet，点击屏幕正下方下载标志的图标，再点击右上角下载标志的图标，找到并选中你要签名的ipa文件，等待签名完成后弹窗安装，点击安装即可。
 
 8. 如果一段时候后你发现打不开Scarlet了，那就证明它掉签了，等待官网更新证书后重新安装即可。
+
+## 各大签名工具 [​](https://docs.sysy.su/guide/offline#%E5%90%84%E5%A4%A7%E7%AD%BE%E5%90%8D%E5%B7%A5%E5%85%B7)[​](https://docs.sysy.su/guide/offline#%E5%90%84%E5%A4%A7%E7%AD%BE%E5%90%8D%E5%B7%A5%E5%85%B7-%E2%80%8B)
+
+这里只做统计，不详细展开描述，具体可查看官网信息。
+
+> *:mega:：某些官网可能需要梯子。*
+
+| 名称         | 官网                                                 | 简介                     |
+| ---------- | -------------------------------------------------- | ---------------------- |
+| Sideloadly | [https://sideloadly.io/](https://sideloadly.io/)   | 一个电脑端简单且强大的自签软件，英文界面   |
+| AltStore   | [https://altstore.io/](https://altstore.io/)       | 可以在连接WiFi的情况下自动续签，英文界面 |
+| SideStore  | [https://sidestore.io/](https://sidestore.io/)     | 睾贵的Mac专属               |
+| 爱思助手       | [https://www.i4.cn/](https://www.i4.cn/)           | 国产之光，用苹果的大概都知道         |
+| 牛蛙助手       | [https://ios222.com/](https://ios222.com/)         | 后起之秀，一键续签很方便           |
+| Scarlet    | [https://usescarlet.com/](https://usescarlet.com/) | 这玩意严格来说其实不算自签          |
