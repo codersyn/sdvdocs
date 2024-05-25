@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,O as d}from"./chunks/framework.97fbe135.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/add-mod.md","lastUpdated":1716365776000}'),a={name:"guide/add-mod.md"},s=d("",4),o=[s];function E(l,n,A,h,i,B){return r(),e("div",null,o)}const c=t(a,[["render",E]]);export{p as __pageData,c as default};
