@@ -62,7 +62,8 @@ function sidebarGuide() {
       collapsed: true,
       items: [
         { text: '在线安装', link: '/guide/online' },
-        { text: '自签安装', link: '/guide/offline' }
+        { text: '自签安装', link: '/guide/offline' },
+        { text: '替换文件', link: '/guide/replace-files-ios' }
       ]
     },
     {
@@ -70,7 +71,7 @@ function sidebarGuide() {
       collapsed: true,
       items: [
         { text: '安卓安装', link: '/guide/sdvapk' },
-        { text: '替换文件', link: '/guide/replace-files' },
+        { text: '替换文件', link: '/guide/replace-files-android' },
         { text: '安装模组', link: '/guide/install-mod' },
         { text: '添加模组', link: '/guide/add-mod' }
       ]

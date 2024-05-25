@@ -1,18 +1,18 @@
 # 总目录
 
-
-
 ## iOS 篇
 
 1. [如何在线安装](/guide/online)
 
 2. [如何自签安装](/guide/offline)
 
+3. [如何替换文件](/guide/replace-files-ios)
+
 ## 安卓篇
 
 1. [如何安装 APK](/guide/sdvapk)
 
-2. [如何替换文件](/guide/replace-files)
+2. [如何替换文件](/guide/replace-files-android)
 
 3. [如何安装模组](/guide/install-mod)
 
